@@ -46,7 +46,6 @@ void display_list(){
 
     int linearsearch(){
       int f;
-      int score;
       cout<<"\n What score would you like to find in the scores you gave?:\n ";
       cin>>f;
 	link * pcurrent=pfirst;
@@ -54,11 +53,11 @@ void display_list(){
 		if(pcurrent->score==f){
 			cout<<"Found";
 			return 0;
-			pcurrent=pcurrent->pnext;
 		}
-		cout <<"not found";
-		return -1;
+			pcurrent=pcurrent->pnext;
 }
+	    cout <<"not found";
+		return -1;
 }
 };
 

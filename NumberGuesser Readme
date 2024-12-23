@@ -9,4 +9,7 @@ GCC: g++ -o numberguesser numberguesser.c++
 Clangg: clangg++ -o numberguesser numberguesser.c++
 MSVC: use the previous two commands depending on which compiler you have installed.
 When the program has been compiled, run it by typing - .\numberguesser.exe
-below is the link to my project page - https://github.com/I-M20/Cpp-projects/tree/NumberGuessing
+
+/bLinks:
+- The link to my project's repository - https://github.com/I-M20/Cpp-projects/tree/NumberGuessing
+- The link to my project - https://github.com/I-M20/Cpp-projects/blob/NumberGuessing/numberguesser.cpp

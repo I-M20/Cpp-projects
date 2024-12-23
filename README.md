@@ -3,7 +3,7 @@ My solution to [Roadmap.SH's Number Guessing project](https://roadmap.sh/project
 The program uses **cstdlib** and **ctime** libraries in order to generate a random number from 1 - 100.
 It has three difficulty levels (Easy, Medium and Hard) which gives the user less attempts than the former level to guess the random number respectively.
 In order to run it, you can use an IDE of your choosing.\
-**Requirements**
+**Requirements**\
 In order to compile this program, you need the following compilers or any of your choosing
 - GCC: Version 7.1 and higher
 - Clang: Version 5.0 and higher

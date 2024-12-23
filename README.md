@@ -13,4 +13,4 @@ To compile, open the terminal and navigate to the directory the file is in:
 - GCC: g++ -o numberguesser numberguesser.c++
 - Clangg: clangg++ -o numberguesser numberguesser.c++
 - MSVC: use the commands in line 12 and 13 depending on which compiler you have installed.
-- Once entered, type  " \\.'numberguesser.exe' " and the program should run. 
+- When the program has been compiled, run it by typing - .\\'numberguesser.exe'  

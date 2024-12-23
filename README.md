@@ -1,6 +1,6 @@
 This is the readme for the Number Guesser program.
 The program uses **cstdlib** and **ctime** libraries in order to generate a random number from 1 - 100.
-It has three `#0969DA`difficulty levels (Easy, Medium and Hard) which gives the user less attempts than the former level to guess the random number respectively.
+It has three difficulty levels (Easy, Medium and Hard) which gives the user less attempts than the former level to guess the random number respectively.
 In order to run it, you can use an IDE of your choosing.
 ##Requirements
 In order to compile this program, you need the following compilers or any of your choosing

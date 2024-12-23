@@ -7,6 +7,7 @@ In order to compile this program, you need the following compilers or any of you
 - GCC: Version 7.1 and higher
 - Clang: Version 5.0 and higher
 - MSVC: Version 2017 and higher
+  
 If you prefer a different compiler, make sure it's upto date to avoid compiling issues and follow compiling instructions included in the compiler's documentation.
 ##
 To compile, open the terminal and navigate to the directory the file is in and type in the following:

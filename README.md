@@ -1,5 +1,5 @@
 This is the readme for the Number Guesser program.\
-My solution to [Roadmap.SH's Number Guessing project](https://roadmap.sh/projects/number-guessing-game) found on [roadmap.sh](https://roadmap.sh).\
+My solution to (https://roadmap.sh/projects/number-guessing-game) found on [roadmap.sh](https://roadmap.sh).\
 My project URL: https://github.com/I-M20/Cpp-projects/tree/NumberGuessing 
 
 The program uses **cstdlib** and **ctime** libraries in order to generate a random number from 1 - 100.

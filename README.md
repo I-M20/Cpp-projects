@@ -16,7 +16,7 @@ To compile, open the terminal and navigate to the directory the file is in and t
 - MSVC: use the previous two commands depending on which compiler you have installed.
 ##
 When the program has been compiled, run it by typing
-.\\numberguesser.exe  
+\n.\\numberguesser.exe  
 
 Links:
 - The link to my project's repository - https://github.com/I-M20/Cpp-projects/tree/NumberGuessing

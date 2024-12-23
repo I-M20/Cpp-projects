@@ -1,4 +1,4 @@
-This is the readme for the Number Guesser program.
+This is the readme for the Number Guesser program.\
 My solution to [Roadmap.SH's Number Guessing project](https://roadmap.sh/projects/number-guessing-game) found on [roadmap.sh](https://roadmap.sh).\
 My project URL: https://github.com/I-M20/Cpp-projects/tree/NumberGuessing 
 

@@ -20,4 +20,4 @@ When the program has been compiled, run it by typing
 .\numberguesser.exe  
 
 Links:
-- The link to my project - https://github.com/I-M20/Cpp-projects/blob/NumberGuessing/numberguesser.cpp
+- The link to my project - https://roadmap.sh/projects/number-guessing-game

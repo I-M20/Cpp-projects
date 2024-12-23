@@ -10,7 +10,6 @@ In order to compile this program, you need the following compilers or any of you
 If you prefer a different compiler, make sure it's upto date to avoid compiling issues and follow compiling instructions included in the compiler's documentation.
 ##
 To compile, open the terminal and navigate to the directory the file is in:
-GCC: g++ -o numberguesser numberguesser.c++
-Clangg: clangg++ -o numberguesser numberguesser.c++
-MSVC: use the commands in line 12 and 13 depending on which compiler you have installed.
-Once entered, type \.'numberguesser.exe' and the program should run. 
+- GCC: g++ -o numberguesser numberguesser.c++
+- Clangg: clangg++ -o numberguesser numberguesser.c++
+- MSVC: use the commands in line 12 and 13 depending on which compiler you have installed. Once entered, type \.'numberguesser.exe' and the program should run. 

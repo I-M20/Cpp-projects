@@ -1,5 +1,5 @@
 This is the readme for the Number Guesser program.
-My solution to [Roadmap.SH's Number Guessing project](https://roadmap.sh/projects/number-guessing-game) found on [roadmap.sh](roadmap.sh)
+My solution to [Roadmap.SH's Number Guessing project](https://roadmap.sh/projects/number-guessing-game) found on [roadmap.sh](roadmap.sh).\
 The program uses **cstdlib** and **ctime** libraries in order to generate a random number from 1 - 100.
 It has three difficulty levels (Easy, Medium and Hard) which gives the user less attempts than the former level to guess the random number respectively.
 In order to run it, you can use an IDE of your choosing.
